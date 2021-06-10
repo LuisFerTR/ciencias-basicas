@@ -1,10 +1,10 @@
 # Ciencias Básicas
 
-Si deseas colaborar puedes leer nuestra [guía de contribución](https://github.com/LuisFerTR/ciencias-basicas/blob/main/.github/CONTRIBUTING.md).
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Material de estudio para las materias de ciencias básicas de ingeniería.
+Si deseas colaborar puedes leer nuestra [guía de contribución](https://github.com/LuisFerTR/ciencias-basicas/blob/main/.github/CONTRIBUTING.md).
 
 ## Contributors ✨
 

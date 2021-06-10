@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ManeAriasA",
+      "name": "Emmanuel Arias A.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78614770?v=4",
+      "profile": "https://github.com/ManeAriasA",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ciencias-basicas",
+  "projectOwner": "LuisFerTR",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

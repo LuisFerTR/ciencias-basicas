@@ -1,0 +1,22 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  ¡Bienvenido, si no sabes por donde empezar a colaborar, puedes revisar nuestra [guía de colaboradores](https://github.com/LuisFerTR/ciencias-basicas/blob/main/.github/CONTRIBUTING.md)!
+  ![Gatito](https://i.ibb.co/Ny8qqj0/tenor.gif)
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  ¡Gracias!, dentro de poco tu PR será evaluada por un Colaborador.
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+ ¡Felicidades! ahora eres parte de este proyecto.
+ Revisa el README, te llevarás una sorpresa :D.
+
+# It is recommended to include as many gifs and emojis as possible!

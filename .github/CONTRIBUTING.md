@@ -49,9 +49,6 @@ git commit -m "[Tema del material]"
 ```
 Esto guardará los cambios en el repositorio local, antes de añadirlos al remoto se utiliza la instrucción:
 ```
-git pull --all
-```
-```
 git rebase main
 ```
 Y para subirlos al remoto se usa:

@@ -37,3 +37,29 @@ Estos son los contenidos aceptados en "materia" por el momento:
 
 Por ejemplo si quisiera agregar material de algebra lineal mi rama debería llamarse `LuisFerTR-lineal`.
 
+El siguiente paso es agregar los archivos al directorio ciencias-basicas/[materia].
+
+Después se utiliza la siguiente instrucción que añadirá los archivos listos para el commit:
+```
+git add .
+```
+Y luego:
+```
+git commit -m "[Tema del material]"
+```
+Esto guardará los cambios en el repositorio local, antes de añadirlos al remoto se utiliza la instrucción:
+```
+git pull --all
+```
+Y para subirlos al remoto se usa:
+```
+git push origin [tuNombreUsuario]-[materia]
+```
+Si recargas la página de tu fork aparecerá el siguiente recuadro
+![alt compare](https://i.ibb.co/M86fCSN/compare.png)
+
+Deberás dar clic en el botón verde y te llevará a la siguiente ventana donde deberás llenar los campos y dar clic en el botón verde.
+![alt pull request](https://i.ibb.co/nQb18Jy/pullrequest.png)
+
+Por último queda esperar que aprueben tu pull request.
+Gracias por colaborar :D

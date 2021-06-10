@@ -51,6 +51,9 @@ Esto guardará los cambios en el repositorio local, antes de añadirlos al remot
 ```
 git pull --all
 ```
+```
+git rebase main
+```
 Y para subirlos al remoto se usa:
 ```
 git push origin [tuNombreUsuario]-[materia]

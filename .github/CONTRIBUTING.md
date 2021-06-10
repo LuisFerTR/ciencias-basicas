@@ -24,3 +24,16 @@ En tu consola cámbiate al directorio del proyecto, si es que no estás ya en é
 ```
 cd ciencias-basicas
 ```
+Crea una rama donde harás los cambios al proyecto.
+```
+git checkout -b [tuNombreUsuario]-[materia]
+```
+Estos son los contenidos aceptados en "materia" por el momento:
+- diferencial
+- integral
+- vectorial
+- ecuaciones
+- lineal
+
+Por ejemplo si quisiera agregar material de algebra lineal mi rama debería llamarse `LuisFerTR-lineal`.
+

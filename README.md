@@ -1,6 +1,6 @@
 # ciencias-basicas
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Material de estudio para las materias de ciencias básicas de ingeniería.
 
@@ -14,6 +14,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ManeAriasA"><img src="https://avatars.githubusercontent.com/u/78614770?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emmanuel Arias A.</b></sub></a><br /><a href="https://github.com/LuisFerTR/ciencias-basicas/commits?author=ManeAriasA" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/LuisFerTR"><img src="https://avatars.githubusercontent.com/u/47088091?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Luis F. Talavera R.</b></sub></a><br /><a href="https://github.com/LuisFerTR/ciencias-basicas/commits?author=LuisFerTR" title="Documentation">📖</a></td>
   </tr>
 </table>
 

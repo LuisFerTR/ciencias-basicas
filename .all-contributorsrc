@@ -31,6 +31,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "paulinau",
+      "name": "Paulina Ugalde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74788522?v=4",
+      "profile": "https://github.com/paulinau",
+      "contributions": [
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,

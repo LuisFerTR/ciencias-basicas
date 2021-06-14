@@ -39,6 +39,10 @@ Por ejemplo si quisiera agregar material de algebra lineal mi rama debería llam
 
 El siguiente paso es agregar los archivos al directorio ciencias-basicas/[materia].
 
+O si tu aporte es el enlace de un artículo o una playlist de videos el paso a seguir es editar el README de la carpeta de la materia de tu aporte y agregar en la sección correspondiente el noombre del tema a agregar entre corchetes([]) y entre paréntesis el enlace del recurso, es importante agregar el tema en orden alfabético.
+En la siguiente imagen se muestra un ejemplo:
+![alt Editar Readme materia](https://i.ibb.co/TMJMbP2/readme.png)
+
 Después se utiliza la siguiente instrucción que añadirá los archivos listos para el commit:
 ```
 git add .

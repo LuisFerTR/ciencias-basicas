@@ -10,13 +10,13 @@ newIssueWelcomeComment: >
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  ¡Gracias!, dentro de poco tu PR será evaluada por un Colaborador.
+  ¡Gracias! Dentro de poco tu PR será evaluada por un colaborador 😎
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
  ¡Felicidades! ahora eres parte de este proyecto.
- Revisa el README, te llevarás una sorpresa :D.
+ Revisa el README, te llevarás una sorpresa 🥳
 
 # It is recommended to include as many gifs and emojis as possible!

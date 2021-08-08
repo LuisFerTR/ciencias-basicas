@@ -1,8 +1,7 @@
 # Ciencias Básicas
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Material de estudio para las materias de ciencias básicas de ingeniería.
@@ -21,6 +20,7 @@ Gracias a estas maravillosas personas:
     <td align="center"><a href="https://github.com/LuisFerTR"><img src="https://avatars.githubusercontent.com/u/47088091?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Luis F. Talavera R.</b></sub></a><br /><a href="https://github.com/LuisFerTR/ciencias-basicas/commits?author=LuisFerTR" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/HerreraIvan"><img src="https://avatars.githubusercontent.com/u/64819762?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HerreraIvan</b></sub></a><br /><a href="https://github.com/LuisFerTR/ciencias-basicas/commits?author=HerreraIvan" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/paulinau"><img src="https://avatars.githubusercontent.com/u/74788522?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paulina Ugalde</b></sub></a><br /><a href="#question-paulinau" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/JaquelineSanchez"><img src="https://avatars.githubusercontent.com/u/78616483?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JaquelineSanchez</b></sub></a><br /><a href="#question-JaquelineSanchez" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 

@@ -49,6 +49,15 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "AndresEdu",
+      "name": "Andrés Arciniega",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78604874?v=4",
+      "profile": "https://github.com/AndresEdu",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
